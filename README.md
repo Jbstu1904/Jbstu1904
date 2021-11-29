@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Jbstu1904
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Jbstu1904/Jbstu1904 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+---> i am a student I need help.
+I need code for web - dynamic management system with front and backend using python and sql.
+Thank you.
+
